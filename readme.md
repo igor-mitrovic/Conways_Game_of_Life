@@ -1,0 +1,1 @@
+This project contains implementation of a specific cellular automata called conways game of life.
